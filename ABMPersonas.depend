@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1665877366 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"mockUp.h"
+	"localidad.h"
+	"validaciones.h"
+	"outputs.h"
+	"informes.h"
+	"menu.h"
+
+1665876049 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\persona.h
+	"localidad.h"
+
+1665877152 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"localidad.h"
+	"inputs.h"
+	"validaciones.h"
+	"outputs.h"
+	<ctype.h>
+	"menu.h"
+
+1665877255 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\mockup.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665798419 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\mockup.h
+	"persona.h"
+
+1665877228 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\localidad.c
+	"localidad.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1665800147 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\localidad.h
+
+1665877085 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665876928 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\validaciones.c
+	"inputs.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1665877128 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\inputs.h
+
+1665862081 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\validaciones.h
+
+1665856306 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\outputs.h
+
+1665877535 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\outputs.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1665877202 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"localidad.h"
+	"inputs.h"
+	"validaciones.h"
+	"outputs.h"
+	<ctype.h>
+	"informes.h"
+	"menu.h"
+
+1665876054 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\informes.h
+
+1665876967 source:c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"localidad.h"
+	"inputs.h"
+	"validaciones.h"
+	"outputs.h"
+	<ctype.h>
+	"menu.h"
+
+1665876038 c:\users\emanuel baquero\onedrive\escritorio\codeblocks\abmpersonas\abmpersonas\menu.h
+
